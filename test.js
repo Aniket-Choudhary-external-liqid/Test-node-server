@@ -1,1 +1,1 @@
-test hzsb 
+console.log('test hzsb'); 
